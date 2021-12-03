@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1002900747981",
+    "firebase_url": "https://fcsa-academy-default-rtdb.firebaseio.com",
+    "project_id": "fcsa-academy",
+    "storage_bucket": "fcsa-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002900747981:android:b74a34114e60f7ba771b84",
+        "android_client_info": {
+          "package_name": "com.codekiller.fcsaacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002900747981-r2a4ehsvgh92ngdfc71tsdvuft80b4ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChlQPRKC9ltn6v7wdaOCfxlmFeM9S9Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002900747981-r2a4ehsvgh92ngdfc71tsdvuft80b4ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002900747981:android:3b5fca8752c07e00771b84",
+        "android_client_info": {
+          "package_name": "com.codekiller.fcsaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002900747981-r2a4ehsvgh92ngdfc71tsdvuft80b4ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChlQPRKC9ltn6v7wdaOCfxlmFeM9S9Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002900747981-r2a4ehsvgh92ngdfc71tsdvuft80b4ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
